@@ -44,7 +44,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>order-service-aws</finalName>
+		<finalName>springboot-aws-codebuild</finalName>
 	</build>
 
 </project>
